@@ -1,0 +1,8 @@
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\bin\Debug\netcoreapp1.1\BangunDatar.deps.json
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\bin\Debug\netcoreapp1.1\BangunDatar.runtimeconfig.json
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\bin\Debug\netcoreapp1.1\BangunDatar.runtimeconfig.dev.json
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\obj\Debug\netcoreapp1.1\BangunDatar.AssemblyInfo.cs
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\bin\Debug\netcoreapp1.1\BangunDatar.dll
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\bin\Debug\netcoreapp1.1\BangunDatar.pdb
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\obj\Debug\netcoreapp1.1\BangunDatar.dll
+C:\KERJA\Kelas .Net\Visual Studio\BangunDatar\BangunDatar\obj\Debug\netcoreapp1.1\BangunDatar.pdb
